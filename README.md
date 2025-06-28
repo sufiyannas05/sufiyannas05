@@ -42,10 +42,11 @@
 
 #
 
-![musashi gif]([https://tenor.com/view/vagabond-gif](https://media1.tenor.com/m/amcmum0mwucAAAAd/vagabond.gif))
+![Vagabond GIF](https://media1.tenor.com/m/amcmum0mwucAAAAd/vagabond.gif)
+
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-## Have a nice day!
+## Keep on praying! God is real!
 *“But when hard workers get to do the thing they love, they're unstoppable." ~ Masako Saeki* 🌅 
 
