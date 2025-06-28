@@ -4,11 +4,28 @@
 
 **`Colorblind programmer 🤷🏽‍♂️`**
 
-  Hello Everyone! I'm 𝓢𝓾𝓯𝓲𝔂𝓪𝓷. I'm a completely noob programmer who embarked on a journey to become a 𝔾𝕠𝕕-𝕃𝕚𝕜𝕖 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣. My Journey started because of two of my fellow friends Rayyan (rayyankhan47) & Samuel (Samuel_Leveille) who constantly tell me to go do some programming. 
+  Hello Everyone! I'm 𝓢𝓾𝓯𝓲𝔂𝓪𝓷. I'm a completely noob programmer who has a dream of becoming a 𝔾𝕠𝕕-𝕃𝕚𝕜𝕖 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣. It all started because of two of my fellow friends Rayyan (rayyankhan47) & Samuel (Samuel_Leveille) who constantly tell me to go do some programming. This is just the beginning of my journey 🏔
+
+  ## 🚀 What I'm Up To
+
+- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/), [pytorch](https://pytorch.org/), and [tensorflow](https://www.tensorflow.org/)
+- 💻 Building MERN/PERN applications with Next.Js
+- 🎨 I am currently working on: A startup to solve certain problems in the Québec collegial academic sphere
+
+Check out my [coding portfolio!] (Unavailable right now)
+
+## 🎓 Who Am I?
+
+- 🌍 I want to change the world!
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sufiyan-naseem-880527323/)
+<a href="https://dev.to/sufiyannas05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sufiyannas05" height="30" width="40" /></a>
+<a href="https://medium.com/@sufiyannas05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sufiyannas05" height="30" width="40" /></a>
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools (a little familar with all of them haven't mastered them yet)
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
@@ -34,3 +51,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawoudnaseem/dawoudnaseem/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/dawoudnaseem/dawoudnaseem/output/github-snake.svg" />
 </picture>
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+## Have a nice day!
+*“A journey of a thousand miles begins with a single step." ~ Lao Tzu* 🌅 
+
