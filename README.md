@@ -72,5 +72,5 @@
 
 ## Keep on praying! God is real!
 
-*“Thts cute. Ur a lil dream chaser." ~ a memory that still echoes* 🌅 
+*“Thts cute. Ur a lil dream chaser." ~ a special someone* 🌅 
 
