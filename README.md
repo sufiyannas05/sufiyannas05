@@ -72,9 +72,5 @@
 
 ## Keep on praying! God is real!
 
-<br>
-<br>
-<br>
-
 *“But when hard workers get to do the thing they love, they're unstoppable." ~ Masako Saeki* 🌅 
 
