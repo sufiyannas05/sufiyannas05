@@ -6,17 +6,13 @@
 
   Hello Everyone! I'm 𝓢𝓾𝓯𝓲𝔂𝓪𝓷. I'm a completely noob programmer who has a dream of becoming a 𝔾𝕠𝕕-𝕃𝕚𝕜𝕖 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣. It all started because of two of my fellow friends Rayyan (rayyankhan47) & Samuel (Samuel_Leveille) who constantly tell me to go do some programming. This is just the beginning of my journey 🏔
 
-  ## 🚀 What I'm Up To
+## 🚀 What I'm Up To?
+ 
+ - 💻 Learning from everything from scratch.
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/), [pytorch](https://pytorch.org/), and [tensorflow](https://www.tensorflow.org/)
-- 💻 Building MERN/PERN applications with Next.Js
-- 🎨 I am currently working on: A startup to solve certain problems in the Québec collegial academic sphere
+## 🎓 Ambitions?
 
-Check out my [coding portfolio!] (Unavailable right now)
-
-## 🎓 Who Am I?
-
-- 🌍 I want to change the world!
+- 🌍 I want to spread kindness and change the world!
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sufiyan-naseem-880527323/)
@@ -46,14 +42,10 @@ Check out my [coding portfolio!] (Unavailable right now)
 
 #
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawoudnaseem/dawoudnaseem/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawoudnaseem/dawoudnaseem/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dawoudnaseem/dawoudnaseem/output/github-snake.svg" />
-</picture>
+![musashi](https://tenor.com/view/vagabond-gif-26255639)
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ## Have a nice day!
-*“A journey of a thousand miles begins with a single step." ~ Lao Tzu* 🌅 
+*“But when hard workers get to do the thing they love, they're unstoppable." ~ Masako Saeki* 🌅 
 
