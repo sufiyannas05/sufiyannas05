@@ -42,7 +42,7 @@
 
 #
 
-![musashi](https://tenor.com/view/vagabond-gif-26255639)
+![musashi gif]([https://tenor.com/view/vagabond-gif](https://media1.tenor.com/m/amcmum0mwucAAAAd/vagabond.gif))
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
