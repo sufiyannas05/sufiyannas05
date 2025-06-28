@@ -13,6 +13,7 @@
  
  - 💻 Learning everything from scratch
  - 💰 Business (hopefully)
+ - 🏢 GREER NATION ASSOCIATION 
 <br>
 <br>
 <br>
@@ -21,7 +22,8 @@
 
 - 🌍 I want to spread kindness and change the world!
 - 🧗 Rock climbing from time to time
-- 🐿️ Love animals (capybaras for some reason though are top tier)
+- 🐿️ Love animals (capybaras for some reason though... They are top tier)
+- ♟️ chess nerd
 <br>
 <br>
 <br>
