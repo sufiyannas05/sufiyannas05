@@ -5,16 +5,26 @@
 **`Colorblind programmer 🤷🏽‍♂️`**
 
   Hello Everyone! I'm 𝓢𝓾𝓯𝓲𝔂𝓪𝓷. I'm a completely noob programmer who has a dream of becoming a 𝔾𝕠𝕕-𝕃𝕚𝕜𝕖 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣. It all started because of two of my fellow friends Rayyan (rayyankhan47) & Samuel (Samuel_Leveille) who constantly tell me to go do some programming. This is just the beginning of my journey 🏔
+<br>
+<br>
+<br>
 
 ## 🚀 What I'm Up To?
  
- - 💻 Learning from everything from scratch.
+ - 💻 Learning everything from scratch
+ - 💰 Business (hopefully)
+<br>
+<br>
+<br>
 
 ## 🎓 Ambitions/passions?
 
 - 🌍 I want to spread kindness and change the world!
 - 🧗 Rock climbing from time to time
 - 🐿️ Love animals (capybaras for some reason though are top tier)
+<br>
+<br>
+<br>
 
 ## 🌐 Connect with me:
 
@@ -23,9 +33,12 @@
 <a href="https://medium.com/@sufiyannas05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sufiyannas05" height="30" width="40" /></a>
 <a href="https://instagram.com/snass_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snass_05" height="30" width="40" /></a>
 
----
+<br>
+<br>
+<br>
 
-### 🧰 Languages and Tools (a little familar with all of them haven't mastered them yet)
+
+## 🧰 Languages and Tools (a little familar with all of them haven't mastered them yet):
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
@@ -45,12 +58,17 @@
 <br />
 
 #
+<br>
+<br>
+<br>
 
 ![Vagabond GIF](https://media1.tenor.com/m/amcmum0mwucAAAAd/vagabond.gif)
 
-
-________________________________________________________________________________________________________________________________________________________________________________
-
 ## Keep on praying! God is real!
+
+<br>
+<br>
+<br>
+
 *“But when hard workers get to do the thing they love, they're unstoppable." ~ Masako Saeki* 🌅 
 
