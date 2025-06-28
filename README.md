@@ -69,10 +69,13 @@
 
 #
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/amcmum0mwucAAAAd/vagabond.gif" alt="Vagabond GIF" />
+</p>
 
-![Vagabond GIF](https://media1.tenor.com/m/amcmum0mwucAAAAd/vagabond.gif)
 
-## Keep on praying! God is real!
+ <h2 align="center">Keep on praying! God is real!</h2>
 
-*“Thts cute. Ur a lil dream chaser." ~ a special someone* 🌅 
+<p align="center"><em>“Thts cute. Ur a lil dream chaser." ~ a special someone</em> 🌅</p>
+
 
