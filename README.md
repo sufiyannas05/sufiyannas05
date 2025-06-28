@@ -72,5 +72,5 @@
 
 ## Keep on praying! God is real!
 
-*“But when hard workers get to do the thing they love, they're unstoppable." ~ Masako Saeki* 🌅 
+*“Thts cute. Ur a lil dream chaser." ~ a memory that still echoes* 🌅 
 
