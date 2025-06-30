@@ -75,6 +75,6 @@
 
  <h2 align="center">Keep on praying! God is real!</h2>
 
-<p align="center"><em>“Thts cute. Ur a lil dream chaser." ~ a special someone</em> 🌅</p>
+<p align="center"><em>“Thts cute. Ur a lil dream chaser." ~ Once a special someone</em> ❤️🌅</p>
 
 
