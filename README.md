@@ -22,7 +22,7 @@
 
 - 🌍 I want to spread kindness and change the world!
 - 🧗 Rock climbing from time to time
-- 🐿️ Love animals (capybaras the most for some reason though...)
+- 🐿️ Love animals (capybaras the most for some reason ...)
 - ♟️ chess nerd
 <br>
 <br>
