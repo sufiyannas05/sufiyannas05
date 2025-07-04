@@ -17,7 +17,7 @@ My journey into programming began thanks to two amazing friends — **Rayyan** (
 But my desire to *make a difference* in the world came from someone dear to me.  
 They once told me:
 
-> _"Imagine the person you want to become, and set goals on how to become that person."_
+> _"imagine the person u wanna become and set goals on how to become tht person"_
 
 Those words stuck with me. They didn’t just inspire me to learn programming — they made me realize that I want to use my skills to spread **kindness**, **positivity**, and make the world a little better, one line of code at a time.
 <br>
