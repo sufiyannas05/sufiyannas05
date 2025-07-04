@@ -19,7 +19,7 @@ They once told me:
 
 > _"imagine the person u wanna become and set goals on how to become tht person"_
 
-Those words stuck with me. They didn’t just inspire me to learn programming — they made me realize that I want to use my skills to spread **kindness**, **positivity**, and make the world a little better, one line of code at a time.
+Those words stuck with me. They made me inspired to spread **kindness**, **positivity**, and hopefully make the world a little better.
 <br>
 <br>
 <br>
