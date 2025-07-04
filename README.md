@@ -6,8 +6,7 @@
 
 ## 👋 Hello Everyone!
 
-I'm 𝓢𝓾𝓯𝓲𝔂𝓪𝓷 — a beginner programmer with a big dream:  
-To become a **𝔾𝕠𝕕-𝕃𝕚𝕜𝕖 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣** and to change the world through **kindness and code**.
+Hello Everyone! I'm 𝓢𝓾𝓯𝓲𝔂𝓪𝓷. I'm a completely noob programmer who has a dream of becoming a **𝔾𝕠𝕕-𝕃𝕚𝕜𝕖 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣** and wants to change the world by spreading **kindness**.
 
 ---
 
