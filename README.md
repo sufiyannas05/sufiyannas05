@@ -4,7 +4,23 @@
 
 **`Colorblind programmer 🤷🏽‍♂️`**
 
-  Hello Everyone! I'm 𝓢𝓾𝓯𝓲𝔂𝓪𝓷. I'm a completely noob programmer who has a dream of becoming a 𝔾𝕠𝕕-𝕃𝕚𝕜𝕖 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣 and wants to change the world by spreading kindness. It all started because of two of my fellow friends Rayyan (rayyankhan47) & Samuel (Samuel_Leveille) who constantly tell me to go do some programming. My desire to change the world came to me when a special someone told me that I must "imagine the person u wanna become and set goals on how to become tht person". This is just the beginning of my journey 🏔
+## 👋 Hello Everyone!
+
+I'm 𝓢𝓾𝓯𝓲𝔂𝓪𝓷 — a beginner programmer with a big dream:  
+To become a **𝔾𝕠𝕕-𝕃𝕚𝕜𝕖 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣** and to change the world through **kindness and code**.
+
+---
+
+## 🌱 How It All Started
+
+My journey into programming began thanks to two amazing friends — **Rayyan** ([rayyankhan47](https://github.com/rayyankhan47)) and **Samuel** ([Samuel_Leveille](https://github.com/Samuel_Leveille)) — who always encouraged me to give coding a try. Their constant conversations of programming sparked my curiosity, and eventually, my passion.
+
+But my desire to *make a difference* in the world came from someone dear to me.  
+They once told me:
+
+> _"Imagine the person you want to become, and set goals on how to become that person."_
+
+Those words stuck with me. They didn’t just inspire me to learn programming — they made me realize that I want to use my skills to spread **kindness**, **positivity**, and make the world a little better, one line of code at a time.
 <br>
 <br>
 <br>
