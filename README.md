@@ -19,7 +19,7 @@ They once told me:
 
 > _"imagine the person u wanna become and set goals on how to become tht person"_
 
-Those words stuck with me. They made me inspired to spread **kindness**, **positivity**, and hopefully make the world a little better.
+Those words stuck with me. They made me inspired to spread **kindness**, **positivity**, and hopefully make the world a little better. Thank you for changing me. You have a special place in my heart! 
 <br>
 <br>
 <br>
