@@ -14,12 +14,11 @@ I'm 𝓢𝓾𝓯𝓲𝔂𝓪𝓷. I'm a completely noob programmer who has a dre
 
 My journey into programming began thanks to two amazing friends — **Rayyan** ([rayyankhan47](https://github.com/rayyankhan47)) and **Samuel** ([Samuel-Leveille](https://github.com/Samuel-Leveille)) — who always encouraged me to give coding a try. Their constant conversations of programming sparked my curiosity, and eventually, my passion.
 
-But my desire to *make a difference* in the world came from someone dear to me.  
-They once told me:
+I want to say how eternally greatful I am for this one person that is dear to me, they changed the way I see myself and the world. They once told me;
 
 > _"imagine the person u wanna become and set goals on how to become tht person"_
 
-Those words stuck with me. They made me inspired to spread **kindness**, **positivity**, and hopefully make the world a little better. Thank you for changing me. You have a special place in my heart! 
+Those words stuck with me. They made me inspired to spread **kindness**, **positivity**, and hopefully make the world a little better. If you ever read this, thank you sincerely! 
 <br>
 <br>
 <br>
