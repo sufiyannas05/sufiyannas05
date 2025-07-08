@@ -12,6 +12,7 @@ I'm 𝓢𝓾𝓯𝓲𝔂𝓪𝓷. I'm a completely noob programmer who has a dre
 <br>
 <br>
 <br>
+  
 ## 🌱 How It All Started
 
 My journey into programming began thanks to two amazing friends — **Rayyan** ([rayyankhan47](https://github.com/rayyankhan47)) and **Samuel** ([Samuel-Leveille](https://github.com/Samuel-Leveille)) — who always encouraged me to give coding a try. Their constant conversations of programming sparked my curiosity, and eventually, my passion.
