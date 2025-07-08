@@ -9,7 +9,9 @@
 I'm 𝓢𝓾𝓯𝓲𝔂𝓪𝓷. I'm a completely noob programmer who has a dream of becoming a **𝔾𝕠𝕕-𝕃𝕚𝕜𝕖 ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣** and wants to change the world by spreading **kindness**.
 
 ---
-
+<br>
+<br>
+<br>
 ## 🌱 How It All Started
 
 My journey into programming began thanks to two amazing friends — **Rayyan** ([rayyankhan47](https://github.com/rayyankhan47)) and **Samuel** ([Samuel-Leveille](https://github.com/Samuel-Leveille)) — who always encouraged me to give coding a try. Their constant conversations of programming sparked my curiosity, and eventually, my passion.
