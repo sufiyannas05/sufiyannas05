@@ -42,7 +42,7 @@ My journey into programming began thanks to two amazing friends — **Rayyan** (
 
 ## 🌐 Connect with me:
 
-<a href="http://www.linkedin.com/in/sufiyan-naseem-880527323" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufiyan-naseem-linkedin" height="30" width="40" /></a>
+<a href="(http://www.linkedin.com/in/sufiyannaseem05)" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufiyan-naseem-linkedin" height="30" width="40" /></a>
 <a href="https://dev.to/sufiyannas05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sufiyannas05" height="30" width="40" /></a>
 <a href="https://medium.com/@sufiyannas05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sufiyannas05" height="30" width="40" /></a>
 <a href="https://instagram.com/snass_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snass_05" height="30" width="40" /></a>
