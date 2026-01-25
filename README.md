@@ -3,6 +3,8 @@
 
 # Sufiyan Naseem
 
+![Sufiyan Naseem](https://avatars.githubusercontent.com/u/162190488?v=4)
+
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🎂 **Age:** 20
 - 🎓 **Education:**
