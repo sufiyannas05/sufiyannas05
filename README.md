@@ -3,7 +3,9 @@
 
 # Sufiyan Naseem
 
-![Sufiyan Naseem](https://avatars.githubusercontent.com/u/162190488?v=4)
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/162190488?v=4" alt="Sufiyan Naseem" width="150" />
+</div>
 
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🎂 **Age:** 20
