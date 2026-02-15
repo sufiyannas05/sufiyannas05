@@ -12,6 +12,6 @@
 - 🤖 digital-secretary ([Repository Link](https://github.com/sufiyannas05/digital-secretary))
 
 ## 🌐 Socials
-- [LinkedIn](https://www.linkedin.com/in/sufiyannaseem05)
+- [LinkedIn](https://www.linkedin.com/in/sufiyannass)
 - [Instagram](https://instagram.com/snass_05)
 
