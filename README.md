@@ -18,4 +18,4 @@ I'm Sufiyan and I'm someone who's super passionate about programming/building st
 
 ---
 
-"𝓘          𝓐          𝓐          𝓓          𝓒          ✨" ~ Sufiyan Naseem
+*If it is Humanly possible, consider it to be within your reach.* ~ Marcus Aurelius
