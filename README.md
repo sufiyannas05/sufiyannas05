@@ -16,6 +16,3 @@ I'm Sufiyan and I'm someone who's super passionate about programming/building st
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sufiyannass) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sufiyannsm061@gmail.com) 
 
----
-
-*If it is Humanly possible, consider it to be within your reach.* ~ Marcus Aurelius
