@@ -1,10 +1,8 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sufiyannas05)
 
 # About Me:
-I'm Sufiyan and I'm someone who's super passionate about hardware/building stuffs. <br>Currently me and my friends we are making something together. <br>Outside of work, I love rock climbing, hanging out with friends, guinea pigs, philosophy, drawing and chess!<br>Feel free to connect with me on my socials! 
+I'm Sufiyan and I'm someone who's super passionate about hardware/building stuffs. <br>Outside of work, I love rock climbing, hanging out with friends, guinea pigs, philosophy, drawing and chess!<br>Feel free to connect with me on my socials! 
 
-## Personal Website:
-- This is my personal website! Make sure to visit it. ([Personal Website link](https://sufiyannaseem.com/))
 
 ## Featured Project
 - digital-secretary ([Repository Link](https://github.com/sufiyannas05/digital-secretary))
